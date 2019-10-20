@@ -1,9 +1,9 @@
-'''
+"""
 Name: Frank Gomes
 Lab: 7a
 Date: 15-10-19
 Extra: Run your own code at the end
-'''
+"""
 
 # Prompt user for their info
 name = str(raw_input("What is your name? "))
