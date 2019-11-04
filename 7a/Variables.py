@@ -12,4 +12,4 @@ year = str(raw_input("What year was your last birthday? "))
 print ("Your name is " + name + " and you are " + age + " years old.\nYou were born in " + str(int(year) - int(age)) +
        ".")
 # Cool extra
-input("Enter some code to run. ")
+print eval(raw_input("Enter some math to run. "))
