@@ -1,3 +1,8 @@
+"""
+Name: Frank Gomes
+Lab: 9a
+Extra: see caesarCipher.py
+"""
 while True:
     userinput = input()
     pairs = 0

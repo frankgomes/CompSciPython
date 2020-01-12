@@ -3,4 +3,4 @@ while True:
     if userinput.split(' ')[1] == "True":
         print(userinput.split(' ')[0].upper())
     else:
-        print(userinput.split(' ')[0])
+        print(userinput.split(' ')[0].lower())
